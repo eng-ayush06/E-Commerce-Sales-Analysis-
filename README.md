@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Analysis-
+# E-Commerce-Sales-Analysis
 This project analyzes e-commerce sales data to identify key trends and insights. The analysis includes monthly sales performance, category-wise sales distribution, profit evaluation, and customer segment analysis. The goal is to derive meaningful insights that can help improve business decision-making.
 
 # Objectives
